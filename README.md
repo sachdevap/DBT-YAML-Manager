@@ -6,6 +6,9 @@ A Streamlit application for managing DBT YAML configurations. This tool provides
 
 **Puneet Sachdeva**
 
+![image](https://github.com/user-attachments/assets/85979b04-f55d-4277-8c57-2a9c659abb34)
+
+
 ## Features
 
 - View existing DBT YAML configurations
